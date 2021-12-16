@@ -17,6 +17,8 @@ project is developed by [jkrsoftware.de](https://www.jkrsoftware.de).
 [![last commit on main-branch](https://badgen.net/github/last-commit/jkrsoftware-de/AWS-S3-FileManagement-Library/main)](https://github.com/jkrsoftware-de/AWS-S3-FileManagement-Library/commit/main)
 [![current watchers](https://badgen.net/github/watchers/jkrsoftware-de/AWS-S3-FileManagement-Library)](https://github.com/jkrsoftware-de/AWS-S3-FileManagement-Library/watchers)
 [![given stars](https://badgen.net/github/stars/jkrsoftware-de/AWS-S3-FileManagement-Library)](https://github.com/jkrsoftware-de/AWS-S3-FileManagement-Library/stargazers)
+<br />
+(_Sometimes the Badges are broken, please reload the Page then — i'll switch to another Batch-Provider soon._)
 
 ---
 
